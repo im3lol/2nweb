@@ -14,7 +14,7 @@ const Footer = () => {
               <div className="w-8 h-8 bg-white rounded-md flex items-center justify-center">
                 <span className="text-black font-bold text-lg">2N</span>
               </div>
-              <span className="font-bold text-xl">2N Business Management</span>
+              <span className="font-bold text-xl">Agency</span>
             </div>
             <p className="text-gray-300 mb-6 max-w-md">
               Performance marketing, premium branding, conversion-focused Shopify, and full Amazon account management—delivered by a compact senior team.
