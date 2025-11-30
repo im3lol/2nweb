@@ -50,7 +50,7 @@ const Header = () => {
             <div className="w-8 h-8 bg-black rounded-md flex items-center justify-center">
               <span className="text-white font-bold text-lg">2N</span>
             </div>
-            <span className="font-bold text-xl">2N Business Management</span>
+            <span className="font-bold text-xl">Agency</span>
           </Link>
 
           {/* Desktop Navigation */}
