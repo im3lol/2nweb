@@ -192,7 +192,11 @@ const HomePage = () => {
              <div className="relative mb-6">
                <div className="flex animate-scroll whitespace-nowrap">
                  <div className="flex items-center space-x-16 px-8">
-                   <span className="brand-item text-2xl font-bold text-gray-800">GLOBED.EG</span>
+                   {/* <span className="brand-item text-2xl font-bold text-gray-800">GLOBED.EG</span> */}
+                   <span className="brand-item text-2xl font-bold text-gray-800 inline-flex items-center gap-3">
+                      <span className="fi fi-eg w-6 h-4 rounded-sm" /> {/* Egypt */}
+                      GLOBED.EG
+                    </span>
                    <span className="brand-item text-2xl font-semibold text-gray-600">Telda.shop</span>
                    <span className="brand-item text-2xl font-bold text-gray-800">Tahoun Mart</span>
                    <span className="brand-item text-2xl font-medium text-gray-500">Bareeq.home</span>
