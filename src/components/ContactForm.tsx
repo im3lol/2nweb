@@ -254,7 +254,7 @@ const ContactForm = () => {
             className={`w-full px-4 py-3 border rounded-lg focus:ring-2 focus:ring-black focus:border-transparent ${
               errors.phone ? 'border-red-300' : 'border-gray-300'
             }`}
-            placeholder="+1234567890"
+            placeholder="+100558329"
           />
           {errors.phone && <p className="text-red-500 text-sm mt-1">{errors.phone}</p>}
         </div>
@@ -373,7 +373,7 @@ const ContactForm = () => {
         </button>
 
         <a
-          href="https://wa.me/1234567890"
+          href="https://wa.me/1005568329"
           target="_blank"
           rel="noopener noreferrer"
           onClick={() => trackButtonClick('WhatsApp Chat', 'contact_page')}
