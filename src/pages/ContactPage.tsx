@@ -44,7 +44,7 @@ const ContactPage = () => {
                     </div>
                     <div className="flex items-center space-x-3">
                       <Phone className="h-5 w-5 text-gray-400" />
-                      <span className="text-gray-600">+20 123 456 7890</span>
+                      <span className="text-gray-600">+20 100 556 8329</span>
                     </div>
                     <div className="flex items-center space-x-3">
                       <MapPin className="h-5 w-5 text-gray-400" />
@@ -59,7 +59,7 @@ const ContactPage = () => {
                     Prefer to chat? We're available on WhatsApp for quick questions.
                   </p>
                   <a
-                    href="https://wa.me/201234567890"
+                    href="https://wa.me/201005568329"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center space-x-2 btn btn-secondary"
