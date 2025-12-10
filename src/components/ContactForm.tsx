@@ -373,7 +373,7 @@ const ContactForm = () => {
         </button>
 
         <a
-          href="https://wa.me/1005568329"
+          href="https://wa.me/201005568329"
           target="_blank"
           rel="noopener noreferrer"
           onClick={() => trackButtonClick('WhatsApp Chat', 'contact_page')}
